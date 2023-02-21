@@ -23,7 +23,7 @@ data = np.loadtxt("data/densetime.csv")
 '''
 
 #x = ['Hash', 'Greedy','DBH','HDRF', 'PDS', 'VCPD']
-x = ['Orkut11']
+x = ['Orkut112b']
 #x = ['Twitter', 'Friendster']
 labels = ['Hash', 'Greedy','DBH','HDRF', 'PDS', 'VCPD']
 ylables = "平衡系数"
